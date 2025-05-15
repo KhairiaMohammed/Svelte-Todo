@@ -7,15 +7,15 @@
 }
 
 :root {
-  --color-bg: #fffdf5; /* خلفية دافئة ناعمة */
+  --color-bg: #fffdf5; 
   --color-hover: #fefae0;
-  --color-green: #4dc0b5; /* أخضر أكثر وضوح */
-  --color-yellow: #facc15; /* أصفر حيوي */
-  --color-red: #ef4444; /* أحمر أكثر نعومة */
+  --color-green: #4dc0b5; 
+  --color-yellow: #facc15; 
+  --color-red: #ef4444;
   --color-red-dark: #b91c1c;
   --color-violet: #8b5cf6;
-  --color-text: #1f2937; /* رمادي داكن للنص */
-  --color-text-light: #6b7280; /* رمادي فاتح للنصوص الثانوية */
+  --color-text: #1f2937;
+  --color-text-light: #6b7280; 
   --color-dark: #0f172a;
 
   --shadow-card: 6px 6px 15px rgba(0, 0, 0, 0.05),
